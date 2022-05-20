@@ -1,0 +1,38 @@
+.letter-img {
+  width: 100%;
+}
+
+.head-img {
+  width: 100%;
+}
+
+.p-text-home {
+  color: #707070;
+  font-size: 20px;
+}
+
+.home-left-style {
+  margin-top: 6rem;
+}
+
+.p-md-text {
+  font-size: 50px;
+}
+
+.div-md-style {
+  margin-top: 6rem;
+  border-left: 3px solid #FEFD99;
+  background-image: url("./gold.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.p-md-part {
+  font-size: 20px;
+  color: #FEFD99;
+}
+
+.div-bt-style {
+  color: #555555;
+  font-size: 12px;
+}

@@ -1,0 +1,158 @@
+.upper-div {
+  border: 1px solid #FDFDA1;
+  border-radius: 20px;
+}
+
+.goldminer-img {
+  width: 100%;
+}
+
+.grinder-div-left {
+  border: 1px solid #FDFDA1;
+  border-radius: 20px;
+  padding: 0px 25px 0px 25px;
+}
+
+.grinder-div-right {
+  border: 1px solid #FDFDA1;
+  border-radius: 20px;
+  padding: 30px 30px 15px 30px;
+}
+
+.grinder-p-text1 {
+  font-size: 18px;
+  color: #FEFD99;
+}
+
+.grinder-p-text2 {
+  font-size: 25px;
+  color: #A2A2A2;
+}
+
+.v1 {
+  border-left: 1px solid #707070;
+  height: auto;
+  margin-left: 6rem;
+}
+
+.v2 {
+  border-left: 1px solid #707070;
+  height: 180px;
+  width: 10px
+}
+
+.minder-p-text3 {
+  font-size: 18px;
+  color: #555555;
+  margin-left: 3rem;
+}
+
+.div-input-style {
+  position: relative;
+}
+
+.input_style {
+  position: relative;
+  background-color: #0D0D0D;
+  border: 1px solid #707070;
+  color: #707070;
+  height: 2.5rem;
+  width: 100%;
+  display: flex;
+  padding: 8px;
+  -webkit-box-align: center;
+  align-items: center;
+  white-space: nowrap;
+  outline: none;
+  border-radius: 5px;
+  appearance: none;
+  font-size: 18px;
+}
+
+.input-p {
+  position: absolute;
+  right: 3%;
+  top: 18%;
+  font-size: 18px;
+  color: #FEFD99;
+}
+
+.grind-button {
+  width: 100%;
+  cursor: pointer;
+}
+
+.minder-p-text4 {
+  font-size: 18px;
+  color: #A2A2A2;
+}
+
+.minder-p-text5 {
+  font-size: 18px;
+  color: #FEFD99;
+}
+
+.span-text1 {
+  font-size: 60px;
+  color: #FEFD99;
+}
+
+.grinder-img-style {
+  cursor: pointer;
+  width: 100%;
+}
+
+.grinder-span-text1 {
+  font-size: 18px;
+  color: #FEFD99;
+}
+
+.grinder-span-text2 {
+  font-size: 25px;
+  color: #A2A2A2;
+}
+
+.div-input-style1 {
+  position: relative;
+}
+
+.input_style1 {
+  position: relative;
+  background-color: #0D0D0D;
+  border: 1px solid #707070;
+  color: #707070;
+  height: 2.5rem;
+  width: 100%;
+  display: flex;
+  padding: 8px;
+  -webkit-box-align: center;
+  align-items: center;
+  white-space: nowrap;
+  outline: none;
+  border-radius: 5px;
+  appearance: none;
+  font-size: 18px;
+}
+
+.input-p1 {
+  position: absolute;
+  right: 3%;
+  top: 18%;
+  font-size: 18px;
+  color: #FEFD99;
+}
+
+.grinder-p-text5 {
+  font-size: 18px;
+  color: #555555;
+}
+
+@media (width < 470px) {
+  .v2 {
+    display: none;
+  }
+
+  .v1 {
+    display: none;
+  }
+}

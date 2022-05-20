@@ -1,0 +1,71 @@
+.triangle-div {
+  background-image: url("./triangle.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 30rem;
+  height: 27rem;
+  border-radius: 20px;
+}
+
+.triangle-right-div {
+  background-image: url("./triangle.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 30rem;
+  height: 27rem;
+  border-radius: 20px;
+}
+
+.span-text {
+  font-size: 20px;
+  color: #0D0D0D;
+}
+
+.p-text {
+  font-size: 25px;
+  color: #0D0D0D;
+}
+
+.roadmap-img {
+  width: 100%;
+}
+
+.roadmap-img1 {
+  width: 100%;
+}
+
+.roadmap-img2 {
+  width: 100%;
+}
+
+.roadmap-img3 {
+  width: 100%;
+}
+
+.roadmap-img4 {
+  width: 100%;
+}
+
+@media (width < 514px) {
+  .triangle-div {
+    background-image: url("./triangle.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 13rem;
+    height: 39rem;
+    border-radius: 20px;
+  }
+
+  .triangle-right-div {
+    background-image: url("./triangle.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 13rem;
+    height: 39rem;
+    border-radius: 20px;
+  }
+}

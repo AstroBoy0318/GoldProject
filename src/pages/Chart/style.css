@@ -1,0 +1,19 @@
+.goldeco-img {
+  width: 100%;
+}
+
+.complex-img {
+  width: 100%;
+}
+
+.chart-left {
+  background-image: url("./group.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 30%;
+}
+
+.chart-div {
+  height: 45%;
+}

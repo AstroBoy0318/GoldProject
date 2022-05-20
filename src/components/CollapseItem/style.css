@@ -1,0 +1,32 @@
+.collapse-title {
+  cursor: pointer;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.line-style {
+  border: 1px solid #8cd469;
+}
+
+.collapse-text {
+  color: #dbf2d0;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  font-size: 1rem;
+}
+
+.faq-font {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.icon-color {
+  color: #dbf2d0;
+}

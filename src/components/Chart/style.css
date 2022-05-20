@@ -1,0 +1,17 @@
+.chat-grid {
+  /* width: 95%; */
+  padding: 1rem;
+}
+
+.chart-title {
+  font-size: 20px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@media (width < 1000px) {
+  .chart-show {
+    display: none;
+  }
+}

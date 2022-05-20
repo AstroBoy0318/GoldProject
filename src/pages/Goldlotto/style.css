@@ -1,0 +1,123 @@
+.lotto-top-div {
+  width: 100%;
+}
+
+.lotto-img {
+  width: 100%;
+}
+
+.lotto-win-img {
+  width: 100%;
+}
+
+.lotto-top-p {
+  font-size: 13px;
+  color: #555555;
+  padding: 20px 20px 20px 20px;
+}
+
+.lotto-div-pad {
+  padding: 10px 10px 10px 10px;
+}
+
+.lotto-left-div {
+  border: 1px solid #FDFDA1;
+  border-radius: 20px;
+  padding: 15px 15px 10px 15px;
+}
+
+.lotto-right-div {
+  border: 1px solid #FDFDA1;
+  border-radius: 20px;
+  padding: 24px 15px 10px 15px;
+}
+
+.lotto-text1 {
+  font-size: 15px;
+  color: #555555;
+}
+
+.lotto-text2 {
+  font-size: 22px;
+  color: #FAF28F;
+}
+
+.lotto-text11 {
+  font-size: 15px;
+  color: #555555;
+}
+
+.lotto-text12 {
+  font-size: 15px;
+  color: #555555;
+}
+
+.lotto-text3 {
+  font-size: 15px;
+  color: #FAF28F;
+}
+
+.lotto-text4 {
+  font-size: 15px;
+  color: #555555;
+}
+
+.lotto-div-input-style {
+  position: relative;
+}
+
+.lotto-input_style {
+  position: relative;
+  background-color: #0D0D0D;
+  border: 1px solid #707070;
+  color: #707070;
+  height: 2.5rem;
+  width: 100%;
+  display: flex;
+  padding: 8px;
+  -webkit-box-align: center;
+  align-items: center;
+  white-space: nowrap;
+  outline: none;
+  border-radius: 5px;
+  appearance: none;
+  font-size: 18px;
+}
+
+.lotto-input-p {
+  position: absolute;
+  right: 7%;
+  top: 18%;
+  font-size: 18px;
+  color: #FEFD99;
+}
+
+@media (width < 530px) {
+  .lotto-text1 {
+    display: none;
+  }
+
+  .lotto-text11 {
+    display: inline;
+  }
+}
+
+@media (width > 530px) {
+  .lotto-text1 {
+    display: inline;
+  }
+
+  .lotto-text11 {
+    display: none;
+  }
+}
+
+@media (width < 1255px) {
+  .lotto-text4 {
+    display: none;
+  }
+
+  .lotto-text12 {
+    display: inline;
+  }
+}

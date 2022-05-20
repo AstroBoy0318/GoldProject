@@ -1,0 +1,50 @@
+.buy-left-img {
+  margin-top: 7rem;
+  width: 100%;
+}
+
+.goldnative-img {
+  width: 100%;
+}
+
+.buy-p-border {
+  font-size: 20px;
+  color: #555555;
+  border: 1px solid #FDFDA1;
+  border-radius: 10px;
+  position: relative;
+  padding: 10px 20px 10px 20px;
+}
+
+.buy-div-right {
+  margin-top: 4rem;
+  position: relative;
+}
+
+.gold-right-img {
+  margin-right: 5rem;
+  position: absolute;
+  z-index: 1;
+  width: 90%;
+  top: -17px;
+}
+
+.buy-p-md {
+  font-size: 20px;
+}
+
+.buy-p-bottom {
+  font-size: 20px;
+  border-left: 2px solid #FCFFA1;
+  background-color: #707070;
+}
+
+.buy-line {
+  height: 63%;
+  padding-left: 14.5rem;
+}
+
+.v1-native {
+  border-left: 1px solid #FCFFA1;
+  height: 16rem;
+}
